@@ -12,5 +12,5 @@ Dynamic programing questions solutions in javascript.
  - [x] Remove duplicate number from an array in O(n) complexity - remove-duplicate-number-from-array.js
   - [Remove duplicate number from an array](https://jsfiddle.net/errhimasnhu/hvc5Lux4/)
 
- - [x] Convert AM PM Time to 24 hours time format
-  -[Convert AM PM Time to 24 hours time format](https://jsfiddle.net/errhimasnhu/Leyeu6m5/)
+ - [x] Convert AM PM Time to 24 hours time format  - time-conversion.js
+  - [Convert AM PM Time to 24 hours time format](https://jsfiddle.net/errhimasnhu/Leyeu6m5/)
