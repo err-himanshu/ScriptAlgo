@@ -14,3 +14,5 @@ Dynamic programing questions solutions in javascript.
 
  - [x] Convert AM PM Time to 24 hours time format  - time-conversion.js
   - [Convert AM PM Time to 24 hours time format](https://jsfiddle.net/errhimasnhu/Leyeu6m5/)
+ - [x] Given a string find all the unique char­ac­ters in the stirng
+  - [Find all the unique char­ac­ters in the stirng](https://jsfiddle.net/errhimasnhu/9nf5f3wh/)
