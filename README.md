@@ -9,7 +9,7 @@ This repository is for implementing the data structure in javascript and solving
 
 ### Dynamic programing questions this repo has
 Dynamic programing questions solutions in javascript.
- - [x] Remove duplicate number from an array in O(n) complexity
+ - [x] Remove duplicate number from an array in O(n) complexity - remove-duplicate-number-from-array.js
   - [Remove duplicate number from an array - check remove-duplicate.js](https://jsfiddle.net/errhimasnhu/hvc5Lux4/)
 
 
