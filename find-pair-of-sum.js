@@ -57,7 +57,6 @@ function bestApproach(arr,sum){
   return result
 }
 
-
 console.log(naiveSolution([12, 3, 4, 1, 6, 9],7));
 
 console.log(bitSmartApproach([12, 3, 4, 1, 6, 9],10));
